@@ -1,2 +1,5 @@
 
 SE esta conociendo trabajar con Git 
+
+Nombre: Diego Ustariz Mejia
+email: diusme@gmail.com
