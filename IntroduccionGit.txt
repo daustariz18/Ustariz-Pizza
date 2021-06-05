@@ -3,3 +3,5 @@ SE esta conociendo trabajar con Git
 
 Nombre: Diego Ustariz Mejia
 email: diusme@gmail.com
+Direccion: Calle 59C # 15F -16
+Profesion: Ingeniero Electronico
