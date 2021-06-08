@@ -10,6 +10,8 @@
         var nombre= prompt("Introduce Tu nombre:");
         var apellido=prompt("Introduce Tu Apellido:");
         var edad=prompt("Ingresa tu edad:");
+        var articulos=["zapatos","camisas",3000]; //creacion de array
+        //var articulos=[]; 
     </script>
 </head>
 <body>
@@ -33,7 +35,9 @@
  edad-=restando;
  document.write("<p>");
  document.write(nombre +" "+apellido+ "<br/>");
- document.write( "Desea tener la edad de: "+edad+" años");
+ document.write( "Desea tener la edad de: "+edad+" años <br/>");
+ document.write("El primer Arcticulo es: "+ articulos[0]);
+ alert("Hay "+ articulos.length()+ "en el array");
  document.write("</p>");
             
 
